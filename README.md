@@ -6,7 +6,7 @@
 
 * **Nama**: Anasufi Ajwa Nazli Nailulhaq
 * **NIM**: 452024611015
-* **Repository**: [Tugas10_Android_AdvancedRV_452024611015](https://github.com/NaufalAhnafussidqi/Tugas10_Android_AdvancedRV_452024611023.git)
+* **Repository**: ((https://github.com/Sujwatok1/TI5_452024611015_ADVANCED-RV.git))
 
 ---
 
@@ -41,7 +41,7 @@ Aplikasi ini mendemonstrasikan implementasi **Advanced RecyclerView** pada platf
 ## 📂 Struktur Direktori Proyek
 
 ```text
-Tugas10_Android_AdvancedRV_452024611023/
+TI5_452024611015_ADVANCED-RV/
 ├── app/
 │   ├── src/
 │   │   └── main/
@@ -70,7 +70,7 @@ Tugas10_Android_AdvancedRV_452024611023/
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/NaufalAhnafussidqi/Tugas10_Android_AdvancedRV_452024611023.git
+   git clone ((https://github.com/Sujwatok1/TI5_452024611015_ADVANCED-RV.git))
    ```
 
 2. **Buka di Android Studio**
